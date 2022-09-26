@@ -1,7 +1,6 @@
-
+<p>Sistema criado a partir do Ignite da Rocketseat com o objetivo de praticar os conhecimentos em React.js com foco no compartilhamento de estado entre os componentes através da ContextAPI.</p>
 
 <p align="center">
-<p>Sistema criado a partir do Ignite da Rocketseat com o objetivo de praticar os conhecimentos em React.js com foco no compartilhamento de estado entre os componentes através da ContextAPI.</p>
    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-490818144/">
       <img alt="João Pedro F" src="https://img.shields.io/badge/-JoãoPedro-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
