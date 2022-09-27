@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/96431370/192655457-1ccf5176-4053-4a59-949f-5e2772225e63.svg" alt="Move It" width="300"/>
+</p>
 
 <p>Sistema criado a partir do Ignite da Rocketseat com o objetivo de praticar os conhecimentos em React.js com foco no compartilhamento de estado entre os componentes através da ContextAPI.</p>
 
@@ -45,3 +48,12 @@ $ npm intall
 $ npm start
 ```
 Go to http://localhost:3000/ to see the result.
+
+# :camera: Screenshots
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/96431370/192654959-730c149f-6643-450f-92bf-be0a5a7f8317.png">
+   <img src="https://user-images.githubusercontent.com/96431370/192655060-186ab09a-3bd9-4f11-be97-c987c777d2ca.png">
+   <img src="(https://user-images.githubusercontent.com/96431370/192655355-d2cd6e64-7923-404d-83cd-30961bb0bbda.png">
+   <img src="https://user-images.githubusercontent.com/96431370/192655365-b6861256-41a4-4254-9496-48cbb76808a8.png">
+</div>
+
