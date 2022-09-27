@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
-</p>
 
 <p>Sistema criado a partir do Ignite da Rocketseat com o objetivo de praticar os conhecimentos em React.js com foco no compartilhamento de estado entre os componentes através da ContextAPI.</p>
 
